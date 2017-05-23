@@ -1,6 +1,6 @@
 # SITE CONFIGURATION
 baseurl: "/portfolio/"
-url: "http://JoePascale.github.io"
+url: "http://joepascale.me"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
