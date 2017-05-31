@@ -5,8 +5,8 @@ url: "http://joepascale.me"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Tyrion Lannister # Your name will go here
-  description: "A personal portfolio and blog website" # used by search engines
+  title: Joe Pascale # Your name will go here
+  description: "A personal portfolio and blog website for Joe Pascale" # used by search engines
 
   # Header and footer text
   header_text: >
