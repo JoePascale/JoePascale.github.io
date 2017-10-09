@@ -1,5 +1,5 @@
 # SITE CONFIGURATION
-baseurl: "/portfolio/"
+baseurl: URL
 url: "http://joepascale.me"
 
 # THEME-SPECIFIC CONFIGURATION
