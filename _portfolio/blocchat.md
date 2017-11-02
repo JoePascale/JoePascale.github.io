@@ -1,10 +1,14 @@
 ---
 layout: post
 title: Bloc Chat
-thumbnail-path: "pictures/beethoven.jpg"
+thumbnail-path: "img/blocflix.png"
 short-description: Bloc Chat is an online chat room application that allows you to connect with all your friends!
 
 ---
+
+{:.center}
+![]({{ site.baseurl }}/img/blocflix.png)
+
 ##Summary
 
 I used AngularJS to make this chat room application simple, easy to use, and have a clean-looking UI.
