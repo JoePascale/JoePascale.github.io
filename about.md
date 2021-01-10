@@ -12,13 +12,13 @@ Interests:
 - Problem Solving
 
 Competencies:
--Productivity: Google Sheets, Excel, PowerPoint, Salesforce, Zendesk, Hubspot, Asana, Trello, Airtable, Slack
--Data Analysis: SQL, Python, Pandas, NumPy, Parabola, Domo
--Programming Languages & Frameworks: Ruby, Rails, Javascript, React, HTML, CSS, Git
+- Productivity: Google Sheets, Excel, PowerPoint, Salesforce, Zendesk, Hubspot, Asana, Trello, Airtable, Slack
+- Data Analysis: SQL, Python, Pandas, NumPy, Parabola, Domo
+- Programming Languages & Frameworks: Ruby, Rails, Javascript, React, HTML, CSS, Git
 
 Hobbies:
--Hiking/Backpacking
--Mountain Biking
--Drums
--Fitness
--Racing Sim Games
+- Hiking/Backpacking
+- Mountain Biking
+- Drums
+- Fitness
+- Racing Sim Games
